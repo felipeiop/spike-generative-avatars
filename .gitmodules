@@ -1,0 +1,9 @@
+[submodule "TEXTurePaper"]
+	path = TEXTurePaper
+	url = https://github.com/felipeiop/spike-generative-avatars
+[submodule "shap-e"]
+	path = shap-e
+	url = https://github.com/felipeiop/spike-generative-avatars
+[submodule "super_resolution/ESRGAN"]
+	path = super_resolution/ESRGAN
+	url = https://github.com/felipeiop/spike-generative-avatars
