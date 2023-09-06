@@ -1,0 +1,9 @@
+/test_texpaper.bat
+/text_test.bat
+/RigNet
+/shap_e_model_cache
+/TEXTurePaper/experiments
+/test
+*.obj
+*.ply
+*.mtl
